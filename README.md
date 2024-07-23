@@ -6,7 +6,7 @@
 </div>
 
 #### IDE: 
-[![Java](https://skillicons.dev/icons?i=java&theme=light)]
+[![Java](https://skillicons.dev/icons?i=java&theme=light)
 
 ## 📖 Library-Management-System
 
