@@ -48,6 +48,6 @@ Open at: src/Project/SQL-Code-Connection.sql
 ```bash
 "F6" shortcut keys to Run
 
-🔥 Boom you can Run code without Error! 
+🔥 Boom you can Run this Project without Error! 
 ```
 
