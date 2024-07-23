@@ -44,7 +44,7 @@ Open at: src/Project/SQL-Code-Connection.sql
 
 (Execute that code in MySQL Workbench)
 ```
-6. Run Project in NetBeans 
+6. Run Project in NetBeans:
 ```bash
 "F6" shortcut keys to Run
 
