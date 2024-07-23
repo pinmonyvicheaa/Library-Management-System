@@ -1,6 +1,3 @@
-# Library-Management-System
-
-
 ## 📖 Library-Management-System
 
 A Library Management System is software designed to streamline library operations, managing resources, transactions, and user activities. It ensures efficient administration and easy access to library materials.
