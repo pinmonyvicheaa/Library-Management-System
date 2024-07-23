@@ -1,15 +1,15 @@
-## 📖 Library-Management-System
-
-A Library Management System is software designed to streamline library operations, managing resources, transactions, and user activities. It ensures efficient administration and easy access to library materials.
-
-![Library-Management-System](https://github.com/user-attachments/assets/e4f98529-be3d-4bb3-a84a-e9b662ecf88c)
-
-### Contact with me:
+### Join my Telegram Channel:
 <div id="badges">
     <a href="https://t.me/vicheapost">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 </div>
+
+## 📖 Library-Management-System
+
+A Library Management System is software designed to streamline library operations, managing resources, transactions, and user activities. It ensures efficient administration and easy access to library materials.
+
+![Library-Management-System](https://github.com/user-attachments/assets/e4f98529-be3d-4bb3-a84a-e9b662ecf88c)
 
 ### ⚠️ How to Run this Project without Error! 
 
