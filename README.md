@@ -5,8 +5,8 @@
 </a>
 </div>
 
-#### IDE: 
-![IDE](https://skillicons.dev/icons?i=java,mysql&theme=light)
+#### Programming Languages: 
+![Programming Languages](https://skillicons.dev/icons?i=java,mysql&theme=light)
 
 ## 📖 Library-Management-System
 
