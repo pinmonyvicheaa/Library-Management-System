@@ -1,9 +1,12 @@
-## Join my Telegram Channel:
+### Join my Telegram Channel:
 <div id="badges">
     <a href="https://t.me/vicheapost">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 </div>
+
+### IDE: 
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 ## 📖 Library-Management-System
 
@@ -42,9 +45,9 @@ Open at: src/Project/SQL-Code-Connection.sql
 (Execute that code in MySQL Workbench)
 ```
 6. Run Project in NetBeans 
-
+```bash
 "F6" shortcut keys to Run
 
 🔥 Boom you can Run code without Error! 
-
+```
 
