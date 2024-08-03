@@ -29,25 +29,19 @@ https://www.oracle.com/java/technologies/downloads/
 https://dev.mysql.com/downloads/installer/
 ```
 4. Open Project in NetBeans:
-```bash
-go to File/Open Project...
-```
+
+**` go to File/Open Project... `**
+
 5. Edit ConnectionProvider.java "mysql.jdbc.Driver" at:
-```bash
-src/Project/ConnectionProvider.java
 
-Edit ("Password") Use your own "MySQL Workbench" Password!
-```
+**` src/Project/ConnectionProvider.java [Edit ("Password") Use your own "MySQL Workbench" Password!] `**
+
 6. Execute MySQL code in MySQL Workbench:
-```bash
-Open at: src/Project/SQL-Code-Connection.sql
 
-(Execute that code in MySQL Workbench)
-```
+**` Open at: src/Project/SQL-Code-Connection.sql (Execute that code in MySQL Workbench) `**
+
 7. Run Project in NetBeans:
-```bash
-"F6" shortcut keys to Run
 
-🔥 Boom you can Run this Project without Error! 
-```
+**` "F6" shortcut keys to Run 🔥 Boom you can Run this Project without Error! `**
+
 
